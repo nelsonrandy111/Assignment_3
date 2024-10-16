@@ -7,7 +7,7 @@ It begins by creating a Course class which has methods to:
     add a student to a course
     remove a student from a course
     show all the students in a course
-This is done with if statements in each method ensuring methods are being executed appropriatley
+This is done with if statements in each method ensuring methods are being executed appropriatley:
     ex. if the method to remove a student was executed, but the student was not in the course's student list, the method will return that the student is not enrolled
 
 **Excercise 2**
